@@ -1,3 +1,3 @@
 # Slider
 
-DEMO:
+DEMO:  https://slider-burartem.vercel.app/
